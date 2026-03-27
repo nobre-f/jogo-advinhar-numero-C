@@ -8,6 +8,7 @@ Entrada e saída de dados (scanf e printf)
 Estruturas de repetição (while)
 Condicionais (if/else)
 Geração de números aleatórios (rand e srand)
+
 🎮 Como funciona
 O programa sorteia um número de 1 a 20
 O jogador tenta adivinhar o número
